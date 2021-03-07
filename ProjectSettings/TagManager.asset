@@ -3,7 +3,16 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Platform
+  - Pickup
+  - Battery
+  - Door
+  - Chest
+  - Flower
+  - Rock
+  - Potion
+  - Temple
   layers:
   - Default
   - TransparentFX
